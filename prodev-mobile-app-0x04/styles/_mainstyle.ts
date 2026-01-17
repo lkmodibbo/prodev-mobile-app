@@ -1,6 +1,5 @@
 import { Dimensions, StyleSheet } from "react-native";
 
-// Constants for reusable values
 const COLORS = {
   white: "#fff",
 };
